@@ -34,3 +34,5 @@ Modèle 4 : modèle entraîné avec la fonction de perte à large marge avec un 
 Modèle 5 : modèle entropie croisée pour la classification de texte
 
 Modèle 6 : modèle large marge pour la classification de texte
+
+Modèle 7 : modèle combinant entropie croisée et large marge pour la classification de texte
