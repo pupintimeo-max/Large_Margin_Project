@@ -42,3 +42,10 @@ Modèle 5 : modèle entropie croisée pour la classification de texte
 Modèle 6 : modèle large marge pour la classification de texte
 
 Modèle 7 : modèle combinant entropie croisée et large marge pour la classification de texte
+
+### Bibliographie :  
+
+Elsayed, G., Krishnan, D., Mobahi, H., Regan, K., & Bengio, S. (2018). Large Margin Deep Networks for Classification. In S. Bengio, H. Wallach, H. Larochelle, K. Grauman, N. Cottle, & R. Garnett (Eds.), Advances in Neural Information Processing Systems (NeurIPS) (Vol. 31). Curran Associates, Inc. https://proceedings.neurips.cc/paper/2018/file/42998cf32d552343bc8e460416382dca-Paper.pdf  
+
+Chattopadhyay, N., Goswami, A., Chattopadhyay A. (2024). Adversarial Attacks and Dimensionality in Text
+Classifiers, https://arxiv.org/pdf/2404.02660
