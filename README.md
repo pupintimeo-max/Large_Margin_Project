@@ -17,11 +17,17 @@ mnist_network.py : fichier contenant la classe définissant le modèle de classi
 
 text_network.py : fichier contenant la classe définissant le modèle de classification pour IMDB  
 
+demo.ipynb : demo du projet
+
 ### Démo  
 
 La démo du projet se présente sous la forme du notebook demo.ipynb. Il présente les principaux résultats obtenus en terme de précision avec les modèles entraînés pour la classification d'image ainsi que les résultats de l'étude de la méthode pour la classification de texte sur le dataset IMDB.
 
 ### Modèles :  
+
+Modèle 0 lm : modèle entraîné avec la fonction de perte à large marge avec un dataset d'entraînement normal
+
+Modèle 0 xent : modèle entraîné avec la fonction de perte entropie croisée avec un dataset d'entraînement normal
 
 Modèle 1 : modèle entraîné avec la fonction de perte entropie croisée avec un dataset d'entraînement bruité à 40%
 
