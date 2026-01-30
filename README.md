@@ -3,6 +3,8 @@ Projet sur les réseaux de neurones utilisant une fonction de perte à large mar
 
 Ce projet s'inspire de l'article de Elsayed et al. (2018) qui démontre l'intérêt d'appliquer une fonction de perte intégrant la notion de large marge à des réseaux de neurones pour la classification d'image. Ce projet explore les expériences et résultats de cet article. De plus, il propose une extension de la méthode à la classification de texte en s'inspirant de l'article de Chattopadhyay et al. (2024).
 
+Lien vers la vidéo d'explication : [Réseaux profonds à large marge pour la classification](https://youtu.be/oncyQ7lHu8s)
+
 ### Eléments du projet  
 
 mnist : jeux de données MNIST utilisés pour l'entraînement et la validation, contenant notamment les jeux de données d'entrainement bruités à 40%.  
