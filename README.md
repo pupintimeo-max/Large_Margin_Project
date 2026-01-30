@@ -5,6 +5,11 @@ Ce projet s'inspire de l'article de Elsayed et al. (2018) qui démontre l'intér
 
 Lien vers la vidéo d'explication : [Réseaux profonds à large marge pour la classification](https://youtu.be/oncyQ7lHu8s)
 
+### Installation des librairies  
+
+pip install -r requirements.txt  
+
+
 ### Eléments du projet  
 
 mnist : jeux de données MNIST utilisés pour l'entraînement et la validation, contenant notamment les jeux de données d'entrainement bruités à 40%.  
